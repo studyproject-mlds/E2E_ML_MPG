@@ -1,0 +1,3 @@
+outs:
+- md5: 5d310a252f688de5b73f2d11abaa5750
+  path: mpg_train.csv
