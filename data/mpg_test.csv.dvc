@@ -1,0 +1,3 @@
+outs:
+- md5: e7320df5aa9b27d9f28dcec08862563c
+  path: mpg_test.csv
